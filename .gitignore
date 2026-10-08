@@ -1,1 +1,4 @@
-MiniAVC.xml
+__pycache__/
+*.pyc
+*.zip
+Thumbs.db

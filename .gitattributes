@@ -1,0 +1,10 @@
+# 行尾固定：cfg/原始文本保持原版 CRLF；文档与脚本用 LF
+# 不加这一层时，Git 的 autocrlf 会把 55 个 cfg 变成整文件差异
+*.cfg   text eol=crlf
+*.txt   text eol=crlf
+*.version text eol=crlf
+*.md    text eol=lf
+*.py    text eol=lf
+*.json  text eol=lf
+*.dll   binary
+*.png   binary

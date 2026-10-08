@@ -1,4 +1,17 @@
 CHANGELOG:
+
+GAP 简体中文汉化（本地化重构）
+===============================================================================
+
+- 把 55 个 cfg 中 1161 处硬编码英文全部替换为 KSP 官方本地化键 #loc_GAP_*
+- 新增 Localization/en-us.cfg（英文，兼作回退）与 Localization/zh-cn.cfg（简体中文）
+- 共 504 个唯一键（含 78 个跨合同共享键），覆盖机构/合同组/合同正文/参数文本/
+  对话框/导航点；重构后残留硬编码为 0
+- 含运行时数值的文本改用 DATA 变量 + 表达式拼接（变量名 = 键名去掉 #）
+- 换行统一为 \n（原 &br; 标记），双引号写作 \"
+- 玩法、数值、条件、奖励完全未改动（逐节点结构比对确认差异仅在文本与新增 DATA 块）
+- 详见 LOCALIZATION.md（机制与维护）、VALIDATION.md（验证状态）
+
 GAP 2.11
 - Code update for 1.12.0 through 1.12.5 KSP using KSP-RO's Contract Configurator 2.11 (matching GAP version to that of the minimum Contract Configurator).
 - Updated dependencies for Contract Configurator managed by Liasias, and updated Module Manager (See Read Me).

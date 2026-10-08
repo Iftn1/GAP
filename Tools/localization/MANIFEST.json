@@ -1,0 +1,420 @@
+{
+ "files": [
+  {
+   "path": ".gitattributes",
+   "bytes": 323,
+   "sha256": "175e7c52a745aa12"
+  },
+  {
+   "path": ".gitignore",
+   "bytes": 39,
+   "sha256": "04c0158f5c4c54e5"
+  },
+  {
+   "path": "Agencies.cfg",
+   "bytes": 1557,
+   "sha256": "88fa5111098f674a"
+  },
+  {
+   "path": "Assets/Flags/GAP.png",
+   "bytes": 22342,
+   "sha256": "b8a1ea54821a07d2"
+  },
+  {
+   "path": "Assets/Flags/GAP_scaled.png",
+   "bytes": 2437,
+   "sha256": "1f1ac9ccc2afa87a"
+  },
+  {
+   "path": "Assets/Flags/KSCAirlines.png",
+   "bytes": 9789,
+   "sha256": "54b52d0173ab062f"
+  },
+  {
+   "path": "Assets/Flags/KSCAirlines_scaled.png",
+   "bytes": 2025,
+   "sha256": "07ea1b840afcc772"
+  },
+  {
+   "path": "Assets/Flags/KSCCoastGuard.png",
+   "bytes": 9964,
+   "sha256": "2079cbfd7a8cc896"
+  },
+  {
+   "path": "Assets/Flags/KSCCoastGuard_scaled.png",
+   "bytes": 1890,
+   "sha256": "8a22d1fff13b26ba"
+  },
+  {
+   "path": "Assets/Flags/WrightAeronautical.png",
+   "bytes": 26979,
+   "sha256": "47d3c839828cd1cc"
+  },
+  {
+   "path": "Assets/Flags/WrightAeronautical_scaled.png",
+   "bytes": 3531,
+   "sha256": "a9ea741e94f641d3"
+  },
+  {
+   "path": "CHANGELOG.txt",
+   "bytes": 26631,
+   "sha256": "a6971c4fe6bc990f"
+  },
+  {
+   "path": "Flights/Airline-Flight-101.cfg",
+   "bytes": 14040,
+   "sha256": "369bf0b18a509dcd"
+  },
+  {
+   "path": "Flights/Airline-Flight-102.cfg",
+   "bytes": 14054,
+   "sha256": "23042eff05c861c7"
+  },
+  {
+   "path": "Flights/Airline-Flight-103.cfg",
+   "bytes": 14280,
+   "sha256": "20afa219a62be575"
+  },
+  {
+   "path": "Flights/Airline-Flight-120.cfg",
+   "bytes": 14126,
+   "sha256": "ba9d4007190cc9a7"
+  },
+  {
+   "path": "Flights/Airline-Flight-122.cfg",
+   "bytes": 14137,
+   "sha256": "3b161a1e907cd0d2"
+  },
+  {
+   "path": "Flights/Airline-Flight-124.cfg",
+   "bytes": 14363,
+   "sha256": "bf84c740300ca2a2"
+  },
+  {
+   "path": "Flights/Airline-Flight-201.cfg",
+   "bytes": 13262,
+   "sha256": "f2b1d4cbf2655d02"
+  },
+  {
+   "path": "Flights/Airline-Flight-202.cfg",
+   "bytes": 13268,
+   "sha256": "5e9a12eb769e2ab7"
+  },
+  {
+   "path": "Flights/Airline-Flight-203.cfg",
+   "bytes": 13492,
+   "sha256": "f656ec48b3a8b8c3"
+  },
+  {
+   "path": "Flights/Airline-Flight-30.cfg",
+   "bytes": 10514,
+   "sha256": "26c2ad4c459330ed"
+  },
+  {
+   "path": "Flights/Airline-Flight-320.cfg",
+   "bytes": 13536,
+   "sha256": "4d7f69e9897174a9"
+  },
+  {
+   "path": "Flights/Airline-Flight-322.cfg",
+   "bytes": 13544,
+   "sha256": "c79bd7bc48d150f9"
+  },
+  {
+   "path": "Flights/Airline-Flight-324.cfg",
+   "bytes": 13769,
+   "sha256": "43838d9f1507525d"
+  },
+  {
+   "path": "Flights/Airline-Flight-360.cfg",
+   "bytes": 17481,
+   "sha256": "899c69ef4406873b"
+  },
+  {
+   "path": "GAP.version",
+   "bytes": 756,
+   "sha256": "fad12598e0b9d74c"
+  },
+  {
+   "path": "Groups.cfg",
+   "bytes": 778,
+   "sha256": "81846f6254d57374"
+  },
+  {
+   "path": "LICENSE.txt",
+   "bytes": 1105,
+   "sha256": "2d50b21c4970d26f"
+  },
+  {
+   "path": "Localization/en-us.cfg",
+   "bytes": 89159,
+   "sha256": "7c97367295fdb5f6"
+  },
+  {
+   "path": "Localization/zh-cn.cfg",
+   "bytes": 119723,
+   "sha256": "1001e207b67fdab1"
+  },
+  {
+   "path": "LOCALIZATION.md",
+   "bytes": 5712,
+   "sha256": "eda523b75c071328"
+  },
+  {
+   "path": "Marketplace/GAP-Ford-CubicStrut.cfg",
+   "bytes": 1853,
+   "sha256": "c0e305181bfb8210"
+  },
+  {
+   "path": "Marketplace/GAP-Ford-iBeam.cfg",
+   "bytes": 1829,
+   "sha256": "a7cbab23415a8ee4"
+  },
+  {
+   "path": "Marketplace/GAP-Ford-Ladder.cfg",
+   "bytes": 1823,
+   "sha256": "daaa776f4f607636"
+  },
+  {
+   "path": "Marketplace/GAP-Inigma-CommandSeat.cfg",
+   "bytes": 1884,
+   "sha256": "61001a8eb679ab59"
+  },
+  {
+   "path": "Marketplace/GAP-Inigma-Decoupler.cfg",
+   "bytes": 1859,
+   "sha256": "7be1aeb898e13ef0"
+  },
+  {
+   "path": "Marketplace/GAP-Loan.cfg",
+   "bytes": 3812,
+   "sha256": "684b4f3ce0e0c355"
+  },
+  {
+   "path": "Marketplace/GAP-Tesla-Battery.cfg",
+   "bytes": 1836,
+   "sha256": "61f602e33f71c319"
+  },
+  {
+   "path": "Marketplace/GAP-Tesla-Wheel.cfg",
+   "bytes": 1829,
+   "sha256": "6a0320e2a54b544e"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-APKitty.cfg",
+   "bytes": 1887,
+   "sha256": "bcd2a83fa85e999f"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-Elevon.cfg",
+   "bytes": 1843,
+   "sha256": "11d6373384b66cd8"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-FuelLine.cfg",
+   "bytes": 1845,
+   "sha256": "36f4532038dfc37e"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-FuelTank.cfg",
+   "bytes": 1853,
+   "sha256": "cf05999da2a870ec"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-Intake.cfg",
+   "bytes": 1835,
+   "sha256": "a97257e39e1a4077"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-KAXVintagePropelator.cfg",
+   "bytes": 1987,
+   "sha256": "9ce193a1b7a623b2"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-Sepratron.cfg",
+   "bytes": 1854,
+   "sha256": "af6de34d3d12ebfa"
+  },
+  {
+   "path": "Marketplace/GAP-Wright-Wing.cfg",
+   "bytes": 1823,
+   "sha256": "e7b077d1ac674be1"
+  },
+  {
+   "path": "Milestones/GAP-Helicopter.cfg",
+   "bytes": 4411,
+   "sha256": "f7ddcba2516c0af3"
+  },
+  {
+   "path": "Milestones/GAP-Seaplane.cfg",
+   "bytes": 6168,
+   "sha256": "fa2a7c23b1dcf1ee"
+  },
+  {
+   "path": "Milestones/SSI-10000m.cfg",
+   "bytes": 5786,
+   "sha256": "f497694fd9f2703e"
+  },
+  {
+   "path": "Milestones/SSI-20000m.cfg",
+   "bytes": 5784,
+   "sha256": "ece5053ae9d1d42c"
+  },
+  {
+   "path": "Milestones/SSI-35000m.cfg",
+   "bytes": 5785,
+   "sha256": "6ff8c96262a8580b"
+  },
+  {
+   "path": "Milestones/SSI-60000m.cfg",
+   "bytes": 4151,
+   "sha256": "de77743774e91223"
+  },
+  {
+   "path": "Milestones/SSI-Mach1.cfg",
+   "bytes": 6443,
+   "sha256": "b5fad99ff8109637"
+  },
+  {
+   "path": "Milestones/SSI-Mach2.cfg",
+   "bytes": 6449,
+   "sha256": "bec9c433b480bc7d"
+  },
+  {
+   "path": "Milestones/SSI-Mach3.cfg",
+   "bytes": 6453,
+   "sha256": "e924ab848991c36a"
+  },
+  {
+   "path": "Milestones/SSI-Mach4.cfg",
+   "bytes": 5734,
+   "sha256": "be43d840caca8b41"
+  },
+  {
+   "path": "Milestones/Wright-2500m.cfg",
+   "bytes": 5820,
+   "sha256": "2ff1b6845b40a2e6"
+  },
+  {
+   "path": "Milestones/Wright-5000m.cfg",
+   "bytes": 5812,
+   "sha256": "99a8a3bae3afe233"
+  },
+  {
+   "path": "Milestones/Wright-FirstFlight.cfg",
+   "bytes": 6118,
+   "sha256": "24c648a9c619088c"
+  },
+  {
+   "path": "Milestones/Wright-Glider.cfg",
+   "bytes": 5522,
+   "sha256": "3ee696a9917ef270"
+  },
+  {
+   "path": "Milestones/Wright-Speed100.cfg",
+   "bytes": 7440,
+   "sha256": "8125da8a37c2f4c4"
+  },
+  {
+   "path": "Milestones/Wright-Speed220.cfg",
+   "bytes": 7446,
+   "sha256": "150a911c9da482ef"
+  },
+  {
+   "path": "MiniAVC.dll",
+   "bytes": 37376,
+   "sha256": "3a74237363b4c973"
+  },
+  {
+   "path": "Patches/PartTests.cfg",
+   "bytes": 720,
+   "sha256": "04ecab9b77347e98"
+  },
+  {
+   "path": "Patches/Strategia.cfg",
+   "bytes": 277,
+   "sha256": "f6b248cc5e533f97"
+  },
+  {
+   "path": "README.txt",
+   "bytes": 1075,
+   "sha256": "07944485e4e2d0b2"
+  },
+  {
+   "path": "README.zh-cn.md",
+   "bytes": 3053,
+   "sha256": "0256b90e1ca67afd"
+  },
+  {
+   "path": "Rescue/CoastGuard-RescueClimbers-Easy.cfg",
+   "bytes": 9051,
+   "sha256": "bce18603a259520d"
+  },
+  {
+   "path": "Rescue/CoastGuard-RescuePilot.cfg",
+   "bytes": 12297,
+   "sha256": "faaf55fbfec7f872"
+  },
+  {
+   "path": "Stunts/Wright-Bail.cfg",
+   "bytes": 8036,
+   "sha256": "12330962d58917c3"
+  },
+  {
+   "path": "Stunts/Wright-BarnstormIsland.cfg",
+   "bytes": 6272,
+   "sha256": "17ddac0c75105147"
+  },
+  {
+   "path": "Stunts/Wright-BarnstormRD.cfg",
+   "bytes": 6461,
+   "sha256": "19e81bc827cfe440"
+  },
+  {
+   "path": "Tools/localization/build.py",
+   "bytes": 10004,
+   "sha256": "ba20ac82f9f7a540"
+  },
+  {
+   "path": "Tools/localization/extract.py",
+   "bytes": 13540,
+   "sha256": "73a10563ff4e6fe8"
+  },
+  {
+   "path": "Tools/localization/glossary.md",
+   "bytes": 9428,
+   "sha256": "1b1cc6eda46ba8b4"
+  },
+  {
+   "path": "Tools/localization/make_batches.py",
+   "bytes": 4045,
+   "sha256": "f955a3b74eb9c6de"
+  },
+  {
+   "path": "Tools/localization/merge_tr.py",
+   "bytes": 12820,
+   "sha256": "50e7f5523ec05bcb"
+  },
+  {
+   "path": "Tools/localization/README.md",
+   "bytes": 2269,
+   "sha256": "1165dbba40985a00"
+  },
+  {
+   "path": "Tools/localization/stock_pair.py",
+   "bytes": 3764,
+   "sha256": "8861926bc06d066e"
+  },
+  {
+   "path": "Tools/localization/verify.py",
+   "bytes": 13836,
+   "sha256": "fca2906523d816cc"
+  },
+  {
+   "path": "VALIDATION.md",
+   "bytes": 5134,
+   "sha256": "a46b2e553ab99ca5"
+  }
+ ],
+ "count": 83
+}
